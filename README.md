@@ -14,10 +14,10 @@ We are committed to enabling faster detection and response to threats, increasin
 ## References
 * CleanStart Website: https://www.cleanstart.com⁠
 * CleanStart Community Images: https://hub.docker.com/u/cleanstart
-⁠* How-to-Run CleanStart Images & Sample Projects: https://github.com/clnstrt/cleanstart-containers/tree/main/containers⁠
-    how-to-Run sample projects using dockerfile
-    how-to-Deploy via Kubernete YAML
-    how-to-Migrate from public images to CleanStart images
+* How-to-Run CleanStart Images & Sample Projects: https://github.com/clnstrt/cleanstart-containers/tree/main/containers⁠  
+    how-to-Run sample projects using dockerfile  
+    how-to-Deploy via Kubernete YAML  
+    how-to-Migrate from public images to CleanStart images  
 
 
 
