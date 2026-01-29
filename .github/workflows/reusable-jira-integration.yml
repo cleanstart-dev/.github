@@ -49,8 +49,6 @@ jobs:
             
             ----
             
-            h3. Description
-            
             ${{ github.event.issue.body }}
             
             ----
